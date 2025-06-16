@@ -5,4 +5,4 @@ channels:
 dependencies:
   - xeus-cpp
   - symengine
-  - boost-cpp
+  - xtensor-blas
