@@ -9,4 +9,5 @@ dependencies:
   - xsimd
   - xwidgets
   - xcanvas
-  - ipycanvas=0.11.0
+  - pip:
+      - ipycanvas==0.11
