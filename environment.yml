@@ -4,11 +4,3 @@ channels:
   - conda-forge
 dependencies:
   - xeus-cpp
-  - symengine
-  - xtensor-blas
-  - xsimd
-  - xwidgets
-  - xcanvas
-  # - pip
-  - pip:
-      - ipycanvas==0.11
