@@ -4,3 +4,6 @@ channels:
   - conda-forge
 dependencies:
   - xeus-cpp
+  - xcanvas
+  - pip:
+      - ipycanvas==0.11
