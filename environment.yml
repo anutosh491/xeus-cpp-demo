@@ -5,6 +5,6 @@ channels:
 dependencies:
   - xeus-cpp
   - xwidgets
-  # - xcanvas
+  - xcanvas
   # - pip:
   #     - ipycanvas==0.11
